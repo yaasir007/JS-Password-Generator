@@ -1,3 +1,3 @@
 # JS-Password-Generator
 
-scren.png
+![Home Page](/scren.png "Home Page")
