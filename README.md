@@ -4,7 +4,7 @@
 
 - [Repo] - JS-Password-Generator - https://github.com/yaasir007/JS-Password-Generator
 
-- [Live] - https://aquamarine-twilight-d09610.netlify.app/
+- [Live] - https://js-password-generater.netlify.app/
 
 ## Screenshots
 
