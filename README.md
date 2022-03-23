@@ -4,7 +4,7 @@
 
 - [Repo] - JS-Password-Generator - https://github.com/yaasir007/JS-Password-Generator
 
-- [Live] - https://js-password-generater.netlify.app/
+- [Live] - <a href="https://js-password-generater.netlify.app" target="_blank">JS-Password-Generator</a>
 
 ## Screenshots
 
